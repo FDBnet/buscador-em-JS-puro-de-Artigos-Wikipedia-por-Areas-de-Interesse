@@ -1,4 +1,4 @@
-# wikipedia_busca
+# Buscador de Artigos na Wikipédia
 Buscador de artigos na Wikipédia com base em temas de interesse do usuário
 
 
